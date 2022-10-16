@@ -4,7 +4,7 @@ A static web design service page made in React.JS
 
 ## Demo
 
-[Link](https://chipper-croquembouche-75081a.netlify.app/)
+[Link](https://webdesignservice.vercel.app/)
 
 ## Getting Started
 
